@@ -148,7 +148,8 @@ INSTALLED_APPS = (
     'djangocms_snippet',
     'djangocms_googlemap',
     'djangocms_video',
-    'project1'
+    'project1',
+	'djangocms_forms',
 )
 
 LANGUAGES = (
